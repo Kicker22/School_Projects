@@ -16,8 +16,25 @@
 }
 
 /* jumbotron */
-.lead{
+.card-container{
+    width: 100%;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
+}
+.card{
+    margin-bottom: 2rem;
+}
+
+.card-img-top{
+    height: 250px;
+
+}
+
+.card-1{
+    background-image: url("../images/Picture3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
