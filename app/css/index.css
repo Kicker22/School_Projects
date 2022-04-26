@@ -1,0 +1,13 @@
+/* nav section */
+
+
+
+
+
+
+
+/* banner */
+.rbanner{
+    display: flexbox;
+    justify-content: space-evenly;
+}
