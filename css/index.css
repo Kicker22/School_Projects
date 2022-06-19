@@ -1,0 +1,46 @@
+
+
+.navbar-brand{
+    height: 40px;
+    width: 40px;
+    background-image: url(../images/Picture2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#hompageIntro{
+    margin-top: 3rem;
+    width: 75%;
+
+}
+
+
+.introPanel{
+ display: flex;
+ justify-content: space-around;
+}
+
+.sectionBJumbo{
+    background:linear-gradient(0deg,rgba(0, 0, 0, 0.604),rgba(0, 0, 0, 0.581)),url(../images/pic3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.jumbo-nav{
+    /* width: 50%; */
+    display: flex;
+    justify-content: center;
+}
+
+.jumbo-b-text{
+    width: 80%;
+}
+
+.button-nav{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+}
