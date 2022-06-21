@@ -1,3 +1,31 @@
+.navbar-brand{
+    height: 40px;
+    width: 40px;
+    background-image: url(../images/Picture2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 .section-a{
     height: 50rem;
+    /* background-color:#6699ccc3; */
+    background:linear-gradient(0deg,rgba(0, 0, 0, 0.604),rgba(0, 0, 0, 0.581)),url(../images/pexels-ruca-souza-1049764.jpg);
+    background-position: center;
+    background-size: cover;
 }
+
+.jumbotron{
+    border: .5px solid black;
+    border-radius: 2rem;
+    width: 50%;
+}
+
+
+.navbar{
+    background-color:#003B6D ;
+    
+    
+}
+
+

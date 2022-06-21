@@ -7,12 +7,12 @@
     background-size: contain;
 }
 
+
 .navbar{
   background-color:#003B6D ;
   
   
 }
-
 
 /* 
 .jumbo-container{
@@ -20,12 +20,19 @@
     justify-content: space-evenly;
 } */
 
-/* .jumbo-a-text{
+.jumbo-a-text{
   margin-right: 5rem;
+}
+
+/* .jumbo-a-image{
+ margin-left: 5rem;
+ width: 50%;
+ border: 0;
+ 
 } */
 
-.jumbo-a-image{
-margin-top: 2rem;
- 
+.fishImg{
+  width: 700px;
+  height: 400px;
 }
 

@@ -1,12 +1,23 @@
 
 
 .navbar-brand{
+  
     height: 40px;
     width: 40px;
     background-image: url(../images/Picture2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.navbar{
+    background-color:#003B6D ;
+    
+    
+}
+
+.nav-link{
+
 }
 
 #hompageIntro{
@@ -22,7 +33,7 @@
 }
 
 .sectionBJumbo{
-    background:linear-gradient(0deg,rgba(0, 0, 0, 0.604),rgba(0, 0, 0, 0.581)),url(../images/pic3.png);
+    background:linear-gradient(0deg,rgba(0, 0, 0, 0.677),rgba(0, 0, 0, 0.7)),url(../images/pic3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,4 +54,14 @@
     margin: 20px;
     height: 100px;
     width: 100px;
+}
+
+.btn-1{
+    border: 0;
+    background-color: #6699CC;
+}
+
+.jumbotext{
+    font-size: 18px;
+    font-weight:450;
 }
