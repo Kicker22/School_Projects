@@ -35,4 +35,14 @@
   width: 700px;
   height: 400px;
 }
+.cats-jumbo{
+  background:linear-gradient(0deg,rgba(1, 1, 1, 0.158),rgba(192, 191, 191, 0.284)),url(../images/fish4.jpg);
+  background-size: cover;
+ background-position: center;
+  margin-bottom: 0;
+
+  height: 25rem;
+
+}
+ 
 

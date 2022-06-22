@@ -31,12 +31,12 @@
  display: flex;
  justify-content: space-around;
 }
-
 .sectionBJumbo{
     background:linear-gradient(0deg,rgba(0, 0, 0, 0.677),rgba(0, 0, 0, 0.7)),url(../images/pic3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 35rem;
 }
 
 
@@ -65,3 +65,27 @@
     font-size: 18px;
     font-weight:450;
 }
+
+.cats-jumbo{
+    background:linear-gradient(0deg,rgba(161, 161, 161, 0.381),rgba(192, 191, 191, 0.061)),url(../images/Picture1.png);
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 0;
+  
+    height: 5rem;
+  
+  }
+
+  .jumboText{
+    width: 35%;
+    
+  }
+
+/* .introImg{
+    width: px;
+}
+    */
+  
+  
